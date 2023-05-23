@@ -12,7 +12,7 @@ Utilisation de SQL sur une base de donnée
 <h2>Code:</h2>
 
 <p align="center">
-<img src="[https://i.imgur.com/mcPfkk7.png" height="80%" width="80%](https://i.imgur.com/R6xBBCO.png)" alt="table seances"/>
+<img src="https://i.imgur.com/R6xBBCO.png" alt="table seances"/>
 <br />
 <br />
 Première visualisation:  <br/>
