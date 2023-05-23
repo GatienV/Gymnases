@@ -16,7 +16,7 @@ Affichage table Seances : <br/>
 <img src="https://i.imgur.com/R6xBBCO.png" alt="table seances"/>
 <br />
 <br />
-CLassement par ordre décroissant par age des sportifs  : <br/>
+Classement par ordre décroissant par age des sportifs  : <br/>
 <img src="https://i.imgur.com/XPDpQw2.png" alt="Age Desc"/>
 <br />
 <br />
