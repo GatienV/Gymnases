@@ -15,24 +15,19 @@ Utilisation de SQL sur une base de donnée
 <img src="https://i.imgur.com/R6xBBCO.png" alt="table seances"/>
 <br />
 <br />
-Première visualisation:  <br/>
-<img src="https://i.imgur.com/YVKyST6.png" height="80%" width="80%" alt="Première visualisation"/>
+<img src="https://i.imgur.com/XPDpQw2.png" alt="Age Desc"/>
 <br />
 <br />
-Création du modèle: <br/>
-<img src="https://i.imgur.com/RIuXCgk.png" height="80%" width="80%" alt="Création du modèle"/>
+<img src="https://i.imgur.com/3nG8lFL.png" alt="3"/>
 <br />
 <br />
-Power BI anomalie de température:  <br/>
-<img src="https://i.imgur.com/JmsTQeM.png" height="80%" width="80%" alt="Rapport"/>
+<img src="https://i.imgur.com/IhONE3O.png" alt="4"/>
 <br />
 <br />
-Power BI Machine Learning:  <br/>
-<img src="https://i.imgur.com/WOdSmNt.png" height="80%" width="80%" alt="Rapport"/>
+<img src="https://i.imgur.com/CoY4gTU.png" alt="5"/>
 <br />
 <br />
-Série Temporelle:  <br/>
-<img src="https://i.imgur.com/8V1u8g8.png" height="80%" width="80%" alt="Rapport"/>
+<img src="https://i.imgur.com/7q8A2o8.png" alt="6"/>
 <br />
 <br />
 
