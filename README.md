@@ -92,12 +92,8 @@ Age moyen, max et min des sportifs : <br/>
 <img src="https://i.imgur.com/QHbQJF0.png" alt="20"/>
 <br />
 <br />
-Sportifs hommes : <br/>
-<img src="https://i.imgur.com/Wi5PdWv.png" alt="21"/>
-<br />
-<br />
-Sportifs femmes : <br/>
-<img src="https://i.imgur.com/JnAUgmp.png" alt="22"/>
+Sportifs par Sexe : <br/>
+<img src="https://imgur.com/ZKQqciF.png" alt="21"/>
 <br />
 <br />
 Affichage du plus petit et du plus grand gymnase par ville : <br/>
